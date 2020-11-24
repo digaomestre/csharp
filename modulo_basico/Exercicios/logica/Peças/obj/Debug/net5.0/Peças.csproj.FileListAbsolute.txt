@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/bin/Debug/net5.0/Peças
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/bin/Debug/net5.0/Peças.deps.json
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/bin/Debug/net5.0/Peças.runtimeconfig.json
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/bin/Debug/net5.0/Peças.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/bin/Debug/net5.0/Peças.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/bin/Debug/net5.0/ref/Peças.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/bin/Debug/net5.0/Peças.pdb
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.AssemblyInfo.cs
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/ref/Peças.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.pdb
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/modulo_basico/Exercicios/logica/Peças/obj/Debug/net5.0/Peças.genruntimeconfig.cache
