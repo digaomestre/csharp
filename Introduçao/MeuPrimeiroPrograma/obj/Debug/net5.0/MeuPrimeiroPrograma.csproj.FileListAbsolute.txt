@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/bin/Debug/net5.0/MeuPrimeiroPrograma
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/bin/Debug/net5.0/MeuPrimeiroPrograma.deps.json
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/bin/Debug/net5.0/MeuPrimeiroPrograma.runtimeconfig.json
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/bin/Debug/net5.0/MeuPrimeiroPrograma.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/bin/Debug/net5.0/MeuPrimeiroPrograma.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/bin/Debug/net5.0/ref/MeuPrimeiroPrograma.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/bin/Debug/net5.0/MeuPrimeiroPrograma.pdb
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.AssemblyInfo.cs
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/ref/MeuPrimeiroPrograma.dll
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.pdb
+/home/rodrigo/Documentos/Estudos/Programaçao/Udemy/csharp/Introduçao/MeuPrimeiroPrograma/obj/Debug/net5.0/MeuPrimeiroPrograma.genruntimeconfig.cache
